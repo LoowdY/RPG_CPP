@@ -66,7 +66,7 @@ int main()
         
         cout << "A palavra cifrada eh: 'npyvaav'.\n DECRIPTE a mensagem";
         
-        getline(cin,resposta_puzzle1);
+        getline(cin, resposta_usuario_puzzle1);
         
         if(resposta_puzzle1 == resposta_usuario_puzzle1)
         {
