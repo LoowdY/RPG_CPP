@@ -54,10 +54,13 @@ int main()
     //estabelecendo condicionais a depender da escolha do usuário
 
     if(escolha_puzzle1 == 1)
-    {
-        string resposta_puzzle1;
-
-        string resposta_usuario_puzzle1 = "girotto";
+    {   
+        
+        string resposta_puzzle1 = "girotto";
+        
+        // a criptografia resumiu-se a passar 7 casas a partir de cada letra apresentada na palavra 'girotto';
+        
+        string resposta_usuario_puzzle1;
         
         cout << "Bem-vindo ao desafio.";
         
