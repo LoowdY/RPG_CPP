@@ -57,7 +57,7 @@ int main()
     {
         string resposta_puzzle1;
 
-        string resposta_usuario_puzzle1;
+        string resposta_usuario_puzzle1 = "girotto";
         
         cout << "Bem-vindo ao desafio.";
         
