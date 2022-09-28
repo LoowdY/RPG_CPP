@@ -12,4 +12,7 @@ no alfabeto em questão. Supondo que N seja 3, então a letra "A" se torna "D". 
 
  muito jovem para morrer faz referencia ao jogo de FPS DOOM. Caso o usuário selecione esta opção, poderar ter acesso a mais dicas, ou seja, o jogo ficará mais fácil.
 
+
+
+Desenvolvedores: João Renan Santanna Lopes, Carlos Henrique Miranda Esteves, Caique M.  S. Sacramento
  OBS: foi incluída a biblioteca string para facilitar a comparação entre os dados, para o usuário poder passar para o próximo puzzle.
